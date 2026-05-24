@@ -1,0 +1,10 @@
+{
+  "name": "ping",
+  "description": "A simple ping command to check if the api is responsive",
+  "version": "1.0.0",
+  "enabled": true,
+  "main": "src/main.js",
+  "dependencies": {
+    "metadata-http": "0.1.0"
+  }
+}
